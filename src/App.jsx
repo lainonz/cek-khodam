@@ -23,7 +23,7 @@ function App() {
       img: "https://e7.pngegg.com/pngimages/963/825/png-clipart-bull-demon-king-bovini-water-buffalo-angry-red-bull-mammal-child.png",
     },
     {
-      nama: "tomat atah",
+      nama: "tomat legeg",
       img: "https://www.penbaypilot.com/sites/default/files/2021/04/field/image/tomato.jpg",
     },
     {
@@ -43,7 +43,7 @@ function App() {
   return (
     <>
       <div className="mt-4">
-        <div className="w-[600px] mx-auto p-3 flex flex-col items-center">
+        <div className="lg:w-[600px] mx-auto p-3 flex flex-col items-center">
           <h1 className="text-center text-2xl font-bold text-white">
             Cek Khodam Yang Ada Didiri kamu Gratis 💀
           </h1>
